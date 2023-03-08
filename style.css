@@ -1,0 +1,61 @@
+.first{
+	border:1px solid lightgray;
+	height:70vh;
+	width:25vw;
+	padding:2%;
+}
+a{
+	text-decoration: none;
+}
+.insta-img{
+	height: 20%;
+	width: 50%;
+	padding:10px;
+}
+.app{
+	height: 25%;
+	width: 50%;
+	margin-bottom:2px;
+}
+.right-side{
+	margin-right:10%;
+	height:83%;
+	width:65%;
+}
+.left-side{
+	height:93%;
+	width:65%;
+	margin-left:36%;
+}
+.main{
+	display:flex;
+	margin-top: 50px;
+}
+input{
+	width:80%;
+	height:15px;
+	padding:5px;
+	margin:3px;
+}
+.check{
+	align-items: flex-start;
+	center:none;
+}
+button{
+	width:80%;
+	height:30px;
+	padding:5px;
+	border-radius:5px;
+	background-color: #00b4fc;
+	border:none;
+	color:white;
+}
+.two{
+	margin-top:10px;
+	border:1px solid lightgray;
+	width:26.5vw;
+}
+.tr{
+	padding:10px;
+	margin:20px;
+}
