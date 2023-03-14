@@ -1,6 +1,6 @@
 .first{
 	border:1px solid lightgray;
-	height:70vh;
+	height:60vh;
 	width:25vw;
 	padding:2%;
 }
@@ -42,7 +42,7 @@ input{
 	center:none;
 }
 button{
-	width:80%;
+	width:85%;
 	height:30px;
 	padding:5px;
 	border-radius:5px;
@@ -58,4 +58,24 @@ button{
 .tr{
 	padding:10px;
 	margin:20px;
+}
+hr {
+	width:35%;	
+	margin:0% 3%;
+	display: inline-block;
+}
+.facebook {
+	color: #005bc5;
+}
+.for {
+	color:blcak;
+	font-size: 12px;
+}
+nav a{
+	margin-left: 0.5%;
+	color:black;
+}
+.last {
+	display: flex;
+	justify-content: center;
 }
